@@ -13,7 +13,7 @@ baseurl: ""
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone: Asia/Shanghai
+timezone: Asia/Kolkata
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
   Blogs related to Chemical Engineering core subjects, Post processing of Pyrolysis oil research topic.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://amit-singh572.github.io"
+url: "https://amit-singh572.github.io/"
 
 github:
-  username: Amit-Singh572 # change to your github username
+  username: amit-singh572 # change to your github username
 
 twitter:
   username: singhamit572 # change to your twitter username
